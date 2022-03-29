@@ -6198,7 +6198,7 @@ MonoBehaviour:
   scoreText: {fileID: 1166640502}
   anim: {fileID: 1686971006}
   reloadTime: 0.5
-  bulletPrefab: {fileID: 6459896245620258335, guid: 459ab1e94e4f7aa45bc2564cdba87c85, type: 3}
+  bulletPrefab: {fileID: 3436559818137205554, guid: 459ab1e94e4f7aa45bc2564cdba87c85, type: 3}
   background: {fileID: 851938672}
   camera: {fileID: 1989478788}
 --- !u!50 &1686971002
